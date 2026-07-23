@@ -19,7 +19,6 @@ venv/
 ENV/
 
 # Vector database / generated data
-chroma_db/
 data/*
 !data/.gitkeep
 
