@@ -1,5 +1,8 @@
 # 📄 AI Document Question Answering System (RAG)
 
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/0e9f4a27-d89b-4780-a867-3f042b2f0d3d" />
+
+
 An end-to-end Retrieval-Augmented Generation (RAG) application that lets you upload one or multiple PDF documents and ask natural-language questions about their content. Answers are generated **strictly from the uploaded documents** — no hallucinated outside knowledge.
 
 Built with **Python, Streamlit, LangChain, ChromaDB, Sentence Transformers, and Google Gemini**.
@@ -18,6 +21,9 @@ Built with **Python, Streamlit, LangChain, ChromaDB, Sentence Transformers, and 
 8. **Display** — The answer is shown alongside the exact source chunks (file name + page number) used to generate it.
 
 ---
+
+## Live Site/App  
+https://ai-document-question-answering-rag-ofyz8k53feq4mjdjwg4rj3.streamlit.app/
 
 ## 🗂️ Project Structure
 
